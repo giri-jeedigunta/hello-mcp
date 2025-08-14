@@ -240,5 +240,11 @@ The server can be extended to support additional coverage formats by:
 ISC
 
 ## Author
+Giri - https://github.com/giri-jeedigunta/
 
-Created for analyzing frontend test setups and improving test coverage visibility.
+## Cline MCP screenshots 
+
+<img width="654" height="674" alt="Screenshot 2025-08-14 at 14 27 22" src="https://github.com/user-attachments/assets/7503569f-afda-4587-8267-72c6323729af" />
+<img width="820" height="221" alt="Screenshot 2025-08-14 at 14 26 11" src="https://github.com/user-attachments/assets/494ea61a-f25e-4b1f-a215-74676ccae57d" />
+<img width="808" height="561" alt="Screenshot 2025-08-14 at 14 26 03" src="https://github.com/user-attachments/assets/f2855b21-76bf-48bd-94c5-435a610e1c10" />
+<img width="812" height="818" alt="Screenshot 2025-08-14 at 14 25 43" src="https://github.com/user-attachments/assets/c0f29b81-b3c5-4f50-9045-57c00df3c359" />
