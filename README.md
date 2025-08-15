@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides tools for analyzing unit test setups, checking coverage, and generating comprehensive test reports for JavaScript/TypeScript projects.
 
+<a href="https://glama.ai/mcp/servers/@giri-jeedigunta/hello-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@giri-jeedigunta/hello-mcp/badge" alt="Test Analyzer Server MCP server" />
+</a>
+
 ## Features
 
 - 🔍 **Framework Detection**: Automatically detects Jest, Vitest, Mocha, Cypress, and Playwright
